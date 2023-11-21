@@ -22,7 +22,7 @@ I'm keen on collaborating on projects that involve data visualization and analys
 
 ## Get in Touch 📫
 - **LinkedIn**: [Arbaaz Khan]()
-- **Email**: [arbaaz@email.com](dataanalystarbaazkhan123@gmail.com)
+- **Email**: [dataanalystarbaazkhan123@gmail.com](mailto:dataanalystarbaazkhan123@gmail.com)
 - **GitHub**: [@arbaazkhaan](https://github.com/arbaazkhaan)
 
 Feel free to explore my repositories and connect with me for discussions, collaborations, or just to geek out over data and engineering! 🚀✨
