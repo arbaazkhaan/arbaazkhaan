@@ -1,5 +1,4 @@
 # Hi there! I'm Arbaaz Khan 👋
-![arbaaz khan](https://github.com/arbaazkhaan/arbaazkhaan/blob/add2ae712803cfdc3344d516fa183eba79462301/desktop-wallpaper-data-analysis-analyst-thumbnail.jpg)
 ### Mechanical Engineer with a Passion for Data Insights 🚀
 
 Welcome to my corner of GitHub! I'm on a quest to merge my Mechanical Engineering background with the fascinating world of data analysis and visualization. My journey involves leveraging various tools and skills to extract meaningful insights from complex datasets.
