@@ -21,7 +21,7 @@ My ongoing journey involves transitioning into the role of a Data Scientist. I a
 I'm keen on collaborating on projects that involve data visualization and analysis. Whether it's turning data into actionable insights or creating captivating visualizations, count me in!
 
 ## Get in Touch 📫
-- **LinkedIn**: [arbaaz-khan-293b412a0](www.linkedin.com/in/arbaaz-khan-293b412a0)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/arbaaz-khan-293b412a0)
 - **Email**: [dataanalystarbaazkhan123@gmail.com](mailto:dataanalystarbaazkhan123@gmail.com)
 - **GitHub**: [@arbaazkhaan](https://github.com/arbaazkhaan)
 
